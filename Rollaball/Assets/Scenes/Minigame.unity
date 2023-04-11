@@ -1513,8 +1513,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  jump: 300
   countText: {fileID: 951676884}
   winTextObject: {fileID: 1914237169}
+  loseTextObject: {fileID: 1890961620}
 --- !u!114 &1068134077
 MonoBehaviour:
   m_ObjectHideFlags: 0
